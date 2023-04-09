@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="E:\PROGRAMAÇÃO\PROJETOS DMS\django_react-Jeferson\backend\venv"
+VIRTUAL_ENV="E:\PROGRAMAÇÃO\PROJETOS DMS\django_react-Jeferson\django_react-Jeferson\backend\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
